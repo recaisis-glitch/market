@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "markets": {
+  "core": {
+   "ok": true,
+   "etf": {
+    "QQQ": "2026-11-19",
+    "SCHD": "2026-11-19",
+    "SPY": "2026-11-19",
+    "VYM": "2026-11-19",
+    "VIG": "2026-11-19",
+    "DGRO": "2026-11-19",
+    "NOBL": "2026-11-19",
+    "JEPI": "2026-11-19"
+   },
+   "fund": "2026-11-13",
+   "div_tickers": 1974,
+   "notes": []
+  },
+  "kr": {
+   "last": "2026-11-19",
+   "source": "marcap",
+   "stocks": 500,
+   "positions": 0,
+   "trades": 48
+  },
+  "us": {
+   "last": "2026-11-19",
+   "source": "yfinance",
+   "stocks": 500,
+   "positions": 5,
+   "trades": 17
+  }
+ },
+ "generated_utc": "2026-11-20 20:27"
+}
